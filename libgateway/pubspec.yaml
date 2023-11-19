@@ -1,0 +1,5 @@
+name: libgateway
+description: discord gateway connection
+
+environment:
+  sdk: ">=2.17.6"

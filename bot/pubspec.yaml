@@ -1,0 +1,11 @@
+name: bot
+description: a discord bot made by a troon
+
+environment:
+  sdk: ">=2.17.6"
+
+dependencies:
+  libgateway:
+    path: ../libgateway
+  libdiscord:
+    path: ../libdiscord

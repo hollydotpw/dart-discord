@@ -1,0 +1,5 @@
+name: libdiscord
+description: an imperative discord api lib approach
+
+environment:
+  sdk: ">=2.17.6"
